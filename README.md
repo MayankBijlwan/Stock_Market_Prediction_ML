@@ -67,7 +67,7 @@ StockMarketPrediction/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/MayankBijlwan/Stock_Market_Prediction.git
+git clone https://github.com/MayankBijlwan/Stock_Market_Prediction_ML
 cd Stock_Market_Prediction
 ```
 
