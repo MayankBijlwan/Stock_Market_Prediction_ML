@@ -1,0 +1,11 @@
+streamlit==1.35.0
+numpy==2.3.0
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-learn==1.5.0
+keras==3.3.3
+tensorflow==2.19.0
+yfinance==0.2.40
+seaborn==0.13.2
+plotly==5.22.0
+python-dotenv==1.0.1
